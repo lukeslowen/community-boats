@@ -56,10 +56,10 @@ expire_days = 2
 [params.favicon]
 favicon = "images/favicon.png"
 [params.footer]
-address = "Middle Lock, Hillmorton <br> Rugby UK"
-content = "This is mostly the ramblings of Baz Slowen, UK boatman and community leader of 50+ years."
+address = "Middle Lock, Hillmorton, Rugby UK"
+content = "Mostly the ramblings of Baz Slowen, UK boatman and community leader of 50+ years."
 copyright = "Copyright &copy; 2022 communityboats.co.uk"
-hours = "Whenever we feel like it"
+hours = ""
 title = "About This Site"
 [params.gallery]
 enable = false
