@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "10"
 theme = "twenty-twenty-hugo"
-title = "Site Config"
+title = "Community Boats"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
@@ -37,43 +37,43 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
-description = "This is meta description"
+author = "Luke Slowen"
+description = "Community Boats website"
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
-image = "images/2020-landscape-1-2.png"
+heading = "Welcome to the Community Boats blog"
+image = "images/james-homans-M0IXYeV3a6s-unsplash.jpg"
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "Here we share news, views and commentary from the cut."
 [params.call_to_action]
-button_label = "Contact Us"
+button_label = "Get in touch"
 button_url = "contact"
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
+content = "Canals are all about community - we'd love to hear your stories, views, grumbles... whatever you like!"
 enable = true
-title = "Contact us for more information."
+title = "We'd love to hear from you."
 [params.cookies]
 enable = true
 expire_days = 2
 [params.favicon]
 favicon = "images/favicon.png"
 [params.footer]
-address = "123 Main Street <br> New York, NY 10001"
-content = "This may be a good place to introduce yourself and your site or include some credits."
-copyright = "Copyright &copy; 2021 a hugo theme by [themefisher](https://themefisher.com/hugo-themes/) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
+address = "Middle Lock, Hillmorton <br> Rugby UK"
+content = "This is mostly the ramblings of Baz Slowen, UK boatman and community leader of 50+ years."
+copyright = "Copyright &copy; 2022 communityboats.co.uk"
+hours = "Whenever we feel like it"
 title = "About This Site"
 [params.gallery]
-enable = true
+enable = false
 [[params.gallery.gallery_item]]
 image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
 image = "images/2020-square-1.png"
 [params.social]
-email = "#"
-facebook = "#"
-instagram = "#"
-linkedin = "#"
-twitter = "#"
-yelp = "#"
+email = "info@communityboats.co.uk"
+facebook = "https://www.facebook.com/baz.slowen"
+instagram = ""
+linkedin = ""
+twitter = ""
+yelp = ""
 [taxonomies]
 author = "author"
 category = "categories"
