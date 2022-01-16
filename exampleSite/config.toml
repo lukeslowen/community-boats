@@ -1,4 +1,4 @@
-baseURL = "https://community-boats.netlify.app"
+baseURL = "https://communityboats.co.uk"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "10"
 theme = "twenty-twenty-hugo"
-title = "Twenty Twenty Hugo"
+title = "Site Config"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
