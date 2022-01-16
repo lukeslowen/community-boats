@@ -37,7 +37,7 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Luke Slowen"
+author = "Baz Slowen"
 description = "Community Boats website"
 [params.banner]
 heading = "Welcome to the Community Boats blog"
