@@ -9,6 +9,7 @@ sections:
   label: Posts
   create: documents
   match: "**/*"
+  exclude: _index.md
   templates:
   - post
 - type: heading
