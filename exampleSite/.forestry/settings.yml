@@ -12,7 +12,7 @@ sections:
   templates:
   - post
 - type: heading
-  label: Others Pages
+  label: Pages
 - type: directory
   path: exampleSite/content/about
   label: About
